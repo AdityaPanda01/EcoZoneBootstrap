@@ -1,0 +1,14 @@
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.btn {
+    width: 150px;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
